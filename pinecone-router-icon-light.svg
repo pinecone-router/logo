@@ -13,7 +13,10 @@
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="pinecone-router-icon-light.svg"
-   inkscape:version="1.0.2 (1.0.2+r75+1)">
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   inkscape:export-filename="/home/rehhouari/Projects/web/alpinejs/pinecone-router/logo/pinecone-router-icon-light.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs452">
     <inkscape:path-effect
@@ -37,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98476395"
-     inkscape:cx="170.02456"
-     inkscape:cy="234.38171"
+     inkscape:zoom="0.59455479"
+     inkscape:cx="-22.477086"
+     inkscape:cy="250.89614"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -61,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
