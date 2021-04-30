@@ -1,0 +1,5 @@
+dark bg: #0B2822
+light bg: #D7F4EE
+
+forground: #37C8AB
+forground-lighter: #5FD3BC
