@@ -40,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59455479"
-     inkscape:cx="-22.477086"
-     inkscape:cy="250.89614"
+     inkscape:zoom="1.34"
+     inkscape:cx="200"
+     inkscape:cy="200"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -84,9 +84,7 @@
            width="33.512188"
            height="33.512188"
            x="54.486832"
-           y="40.925938"
-           ry="5.4639378"
-           rx="5.4639378" />
+           y="40.925938" />
         <g
            id="g1640-2"
            transform="matrix(0.89999993,0,0,0.88000006,29.418769,52.958435)" />

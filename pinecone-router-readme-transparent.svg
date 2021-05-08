@@ -12,8 +12,11 @@
    viewBox="0 0 640 365"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="pinecone-router-readme-dark.svg"
-   inkscape:version="1.0.2 (1.0.2+r75+1)">
+   sodipodi:docname="pinecone-router-readme-transparent.svg"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   inkscape:export-filename="/home/rehhouari/Projects/web/alpinejs/pinecone-router/logo/pinecone-router-readme-transparent.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs4371">
     <inkscape:path-effect
@@ -124,9 +127,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5384004"
-     inkscape:cx="124.60568"
-     inkscape:cy="217.94481"
+     inkscape:zoom="0.73879514"
+     inkscape:cx="193.25568"
+     inkscape:cy="211.7863"
      inkscape:document-units="px"
      inkscape:current-layer="g5340"
      inkscape:document-rotation="0"
@@ -144,7 +147,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -155,14 +158,6 @@
     <g
        id="g5340"
        transform="matrix(6.7210805,0,0,6.7930199,-75.58703,-1595.5315)">
-      <rect
-         style="fill:#0b2822;stroke-width:0.392301"
-         id="rect2312-8-1-0-3-9-9"
-         width="95.222672"
-         height="53.731617"
-         x="11.246262"
-         y="234.87808"
-         ry="3.824744" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.108166px;line-height:0.95;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;white-space:pre;inline-size:1.34643;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167"
